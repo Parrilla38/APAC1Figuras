@@ -1,0 +1,20 @@
+com/ieseljust/ad/figures/Punt.java
+ com.ieseljust.ad.figures.Punt
+com/ieseljust/ad/figures/Rectangle.java
+ com.ieseljust.ad.figures.Rectangle
+com/ieseljust/ad/figures/Escena.java
+ com.ieseljust.ad.figures.Escena
+com/ieseljust/ad/figures/Cercle.java
+ com.ieseljust.ad.figures.Cercle
+com/ieseljust/ad/figures/Linia.java
+ com.ieseljust.ad.figures.Linia
+com/ieseljust/ad/figures/App.java
+ com.ieseljust.ad.figures.App
+com/ieseljust/ad/figures/HexColorValidator.java
+ com.ieseljust.ad.figures.HexColorValidator
+com/ieseljust/ad/figures/Colors.java
+ com.ieseljust.ad.figures.Colors
+com/ieseljust/ad/figures/FileManager.java
+ com.ieseljust.ad.figures.FileManager
+com/ieseljust/ad/figures/Figura.java
+ com.ieseljust.ad.figures.Figura
